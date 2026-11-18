@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying preprint."
+type: article
+title: "A Share-Deficit Bound and a 40-Word Local Identifying Code in the 8-Cube"
+authors:
+  - family-names: Duong
+    given-names: Steven Minh Phat
+year: 2026
+doi: 10.5281/zenodo.24335625
+url: "https://doi.org/10.5281/zenodo.24335625"
